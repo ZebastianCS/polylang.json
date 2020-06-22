@@ -165,9 +165,9 @@
 
   "tribes.nature": "Nature",
   "tribes.xin-xi": "Sericae",
-  "tribes.xin-xi.info": "In montibus densissimis itinera incipiunt, pulcherrimis floribus cerasorum ea circumeunte.\n\n{0} ludum ineunt cum scientia '{1}'.",
+  "tribes.xin-xi.info": "In montibus densissimis itinera incipiunt, pulcherrimis floribus cerasorum ea circumeunte.\n\nGens {0} ludum ineunt cum scientia '{1}'.",
   "tribes.imperius": "Italii",
-  "tribes.imperius.info": "Terra {0} magnorum collium viridiumque vallium est, caelum culto fructarumo ptimum est. \n\n{0} ludum ineunt cum scientia '{1}'.",
+  "tribes.imperius.info": "Terra {0} magnorum collium viridiumque vallium est, caelum culto fructarumo ptimum est. \n\nGens {0} ludum ineunt cum scientia '{1}'.",
   "tribes.bardur": "Germanii",
   "tribes.bardur.info": "Difficilis est superare hiems aeternum durumque silvarum {0}, sed gens {0} in hoc loco vigere videtur.\n\n{0} ludum ineunt cum scientia '{1}'.",
   "tribes.oumaji": "Punici",
