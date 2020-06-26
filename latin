@@ -744,7 +744,7 @@
   "consent.enabled.info":"You currently allow Polytopia to access some personal data to improve service and store your high scores etc. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
   "consent.disabled":"Personal Data Disabled",
   "consent.disabled.info":"To save personal data like high scores and usage statistics we need you approval. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
-  "consent.revoke":"revoke consent",
+  "consent.revoke":"consensionem revocare",
 
   "onlineview.title": "LUDERE CUM AMICIS",
   "onlineview.loadingservice": "Loading Service",
