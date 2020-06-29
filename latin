@@ -359,7 +359,7 @@
   "actionbox.confirm.info": "Are you sure you want to do this?",
   "actionbox.confirm.button": "CERTUS SUM",
 
- "tooltip.tile.road": "Aedifica vias ut hanc urbem coniunge to your capital.",
+  "tooltip.tile.road": "Aedifica vias ut hanc urbem coniunge to your capital.",
   "tooltip.tile.choose_unit": "Elige milem ut instituatur.",
   "tooltip.tile.limit": "Haec urbs sufferre non potest magis milites.",
   "tooltip.tile.capture.enemy": "Urbs tuae a gente inimica capitur!",
@@ -393,7 +393,7 @@
   "tooltip.unit.grow.later": "Will grow to {0} in {1} turns.",
   "tooltip.unit.decay.now": "This unit will dissolve at the end of this turn.",
   "tooltip.unit.decay.later": "This unit will dissolve in {0} turns.",
-  "tooltip.ability.disband": "Remove any of your own units and get half of its cost in return.",
+  "tooltip.ability.disband": "Delet militem tui, dimidium pretii militis reddens.",
   "tooltip.ability.destroy": "Remove any building within your borders, great for reconstructing your empire.",
   "tooltip.ability.literacy": "Minuit pretium omnis scientiae by 20%.",
   "tooltip.ability.glide": "All non skating units get an extra move when moving on ice.",
@@ -415,6 +415,7 @@
   "tooltip.ability.freeze_auto": "This unit freezes any surrounding tiles and units when moving.",
   "tooltip.ability.skate": "This unit gets double movement on ice tiles but on land their movement is limited to 1 tile and all other abilities are disabled.",
   "tooltip.ability.fortify": "This unit gets a defence bonus when defending in its own cities, double bonus with a city wall.",
+
 
   "buttons.ok": "CONSENTIO",
   "buttons.exit": "EXIRE",
@@ -596,7 +597,7 @@
   "action.info.capture": "capture",
   "action.info.capture2": "capture this city. Cities generate stars every turn that you can use to develop your empire",
   "action.info.destroy": "destroy",
-  "action.info.disband": "Disband {0}",
+  "action.info.disband": "Dimittere {0}",
   "action.info.remove": "Remove",
   "action.info.cityreward": "City Reward",
   "action.info.reward": "Praemium",
