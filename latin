@@ -409,7 +409,7 @@
   "tooltip.ability.splash": "This unit causes splash damage to nearby units when attacking.",
   "tooltip.ability.grow": "This unit will eventually grow and become something else.",
   "tooltip.ability.sneak": "This unit can move past enemy units without stopping.",
-  "tooltip.ability.scout": "This unit has double vision range.",
+  "tooltip.ability.scout": "Intervallum visionis huius militis est duplum.",
   "tooltip.ability.freeze": "This unit freezes its enemies when attacking them so they cannot move.",
   "tooltip.ability.freeze_area": "This unit can freeze the surrounding tiles including any enemy units.",
   "tooltip.ability.freeze_auto": "This unit freezes any surrounding tiles and units when moving.",
