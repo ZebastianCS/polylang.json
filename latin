@@ -111,7 +111,7 @@
   "gamemode.death": "Imperium tuum exstinctus est, victus es.",
 
   "world.intro.title": "Tros Anchisiade!",
-  "world.intro.text": "Excudent alii spirantia mollius aera, vivos ducent de marmore vultus... Tu regere imperio populos, gentis {0} princeps, memento (hae tibi erunt artes) pacisque imponere morem, parcere subiectis et debellare superbos.",
+  "world.intro.text": "Excudent alii spirantia mollius aera, vivos ducent de marmore vultus... Tu regere imperio populos, gentis {0} princeps, memento (hae tibi erunt artes) pacisque imponere morem, parcere subiectis et debellare superbos!",
   "world.intro.objective": "Agendum: {0}",
   "world.turn.end": "Versum Finire",
   "world.turn.end.question": "Versum tuum finire vis?",
