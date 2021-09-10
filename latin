@@ -220,9 +220,9 @@
   "building.ability.attract": "Feram bestiam adducit ad silvam adiacentem post {1} versus.",
   "building.ability.embark": "Milites hic admoventes fient naves quas in litoribus movere possunt.",
 
-  "building.ability.route": "{1} creates trade routes through {0} to any other {1} within a {2} tiles radius.",
+  "building.ability.route": "Creat itinera commercii {0} cum aliis portibus intra {2} agellos.",
   "building.ability.network": "{1} connect to cities and other {1} through {0}, within a {2} tiles radius.",
-  "building.ability.route.and": " and ",
+  "building.ability.route.and": " et ",
   "building.ability.road": "Build roads to connect cities with the capital. Connected cities get 1 population as a reward. Roads also give a movement bonus for all units.",
   "building.ability.ruin": "A ruin from an ancient civilization, it can contain valuable things! Go there with a unit to examine it.",
   "building.ability.patina": "{0} grows every {1} turns and provides {2} for each level of growth.",
